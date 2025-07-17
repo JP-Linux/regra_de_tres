@@ -43,9 +43,13 @@ python regra_de_tres.py
   3. Campo para valor C e exibição do resultado X
 - Tratamento de erros para entradas inválidas
 
-## Autor
+## 👤 Autor
 
 **Jorge Paulo Santos**  
-[![GitHub](https://img.shields.io/badge/GitHub-JP--Linux-lightgrey)](https://github.com/JP-Linux)  
-✉️ jorgepsan7@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JP-Linux)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgepsan7@gmail.com)
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
